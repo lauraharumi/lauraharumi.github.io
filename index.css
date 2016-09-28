@@ -1,0 +1,18 @@
+#header{
+	position: fixed;
+	top: 2%;
+	right: 2%;
+	position: top; 
+	width: 100%;
+	text-align: right;
+	color: darkorange;
+	margin-right: 10%;
+	/*top right bottom left*/
+}
+
+#footer {
+	bottom: 2%;
+	display: block; 
+	color: blue;
+	text-align: center; 
+}
